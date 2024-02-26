@@ -1,0 +1,225 @@
+%\lstset{
+    %language=[LaTeX]TeX,
+    %backgroundcolor = \color{black!10},
+    %basicstyle=\ttfamily\normalsize\color{black},
+    %breaklines=true,
+    %columns = fullflexible, 
+    %framexleftmargin = 3pt,
+    %frame = single,
+    %identifierstyle=\ttfamily\color{black},
+    %keywordstyle=\ttfamily\color{black},
+    %otherkeywords = {usetheme, useinnertheme, useoutertheme,usefonttheme, usecolortheme},
+%}
+
+
+\chapter{Noch ein paar Textbestandteile}
+ 
+ \section{Mathematiknotation}
+
+Hier kommt eine abgesetzte Formel ohne Nummerierung:
+%
+\begin{align*}
+\frac{a+1}{b+1} \quad \tfrac{a+1}{b+1} \quad  \dfrac{a+1}{b+1} \quad \nicefrac{a}{b}
+\end{align*}
+%
+In einem Text ist $\nicefrac{1}{8}$ schöner als $\frac{1}{8}$. 
+%	
+\begin{align}
+\label{eq:pythagoras} a^2 + b^2  & = c^2 \\ 
+\label{eq:fermat} a^n + b^n & = c^n \\ 
+\label{eq:schoen} \textsf{e}^{\textsf{i}\pi} +1 & = 0 \quad \text{mit} \quad  \textsf{i}^2  = -1   
+\end{align}	
+%
+\begin{align}
+f(x) = A \sin(\alpha x + b) + \log(x) \cdot \sin\left(\frac{x}{y}\right) \\
+g(x) = \left(\frac{\ \ x (1-x^2)\ \ }{\frac{1}{2-x^2 +3x -y^2}} \right)
+\end{align}
+%	
+Man nennt die Formel~\eqref{eq:pythagoras} den Satz des Pythagoras. Die Fermat'sche Vermutung besagt, dass Gleichung~\eqref{eq:fermat} keine positiven ganzzahligen Lösungen $a, b, c$ für $n \ge 3$ hat und wurde 1994 von Andrew Wiles und Richard Taylor bewiesen. 
+
+Gleichung~\eqref{eq:schoen} wird oft als die schönste Gleichung der Mathematik bezeichnet. Um Konstanten von Variablen zu unterscheiden sollte man die Eulersche Zahl sowie die imaginäre Einheit in Formeln aufrecht setzen. Das geht mithilfe von \newline \lstinline!\text{<zeichen>}!. 
+%
+\begin{align}
+\label{eq:binomial}
+(a+b)^n = \sum_{k = 0}^{n} \binom{n}{k} a^k b^{n-k}
+\end{align}	
+%	
+Der junge Carl-Friedrich Gauss fand zu Schulzeiten die Formel $\sum_{j = 1}^N = \frac{1}{2}N(N+1)$. Innerhalb von Text ist es auch möglich die Grenzen ober- und unterhalb zu setzen. Dafür existiert der Befehl {\lstI{limits}}. Das sieht dann so aus: $\zeta(x) = \sum\limits_{n=1}^{\infty} \frac{1}{n^x}$, und erhöht dann etwas unglücklich den Zeilenabstand. Ein paar gesetzte Formeln: % mit den neu definierten Befehlen:	
+%
+\begin{align*}
+\sin(x)^2 + \cos(x)^2 & = 1 &
+\int_{1}^{\infty} \frac{1}{x^2} \, \textrm{d}x & = 1 \\
+\frac{\partial f(x, y)}{\partial y} & = x^2 + 2y
+\end{align*}
+%
+Diese Formeln wurden hier mit der \texttt{align*}-Umgebung (mit Stern "`*"') erstellt, daher sind sie nicht nummeriert. Mit dem Kaufmanns-und (\&) kann man Gleichungen setzen: hier hat jede Zeile ein \texttt{\&} unter vor dem \texttt{=}.  $\cdot$ ist der Malpunkt, $\cdots$ und $\vdots$ sind viele Punkte, und $\ddots$ sind diagonal. Dies ist besonders bei der Darstellung von großen Matrizen sinnvoll, zum Beispiel:
+%
+\begin{align*}
+A= (a_{ij})_{m,n} = \begin{pmatrix} a_{11} & a_{12} & \cdots & a_{1n} \\ a_{21} & a_{22} & \cdots & a_{2n} \\ \vdots  & \vdots & \ddots & \vdots \\  a_{m1} & a_{m2} & \cdots & a_{mn} \end{pmatrix} 
+\end{align*}
+%
+\begin{align*}
+\left(\frac{1}{2} + \frac{3}{5}\right) \cdot 7 = \frac{77}{10}
+\end{align*}
+
+Für logische Zusammenhänge braucht man oft die Implikation $\implies$ oder die Äquivalenz $\iff$. Die Verneinung einer Aussage kann man entweder so $\neg A$ oder auch $\overline{A}$ darstellen. Für die logischen Vernüpfungen gibt es $\wedge$ und $\vee$ (so wie jede Menge anderer Zeichen...). 
+
+Manchmal braucht man auch die Menge der natürlichen Zahlen, dafür nimmt man das Paket \texttt{dsfont}, so dass man zum Beispiel schreiben kann:
+%
+\begin{align}
+\mathds{N} & = \{1, 2, 3, \cdots \} \\
+\mathds{Z} & = \{0, \pm 1, \pm 2, \pm 3, \cdots \}
+\end{align}
+%
+und analog natürlich auch $\mathds{Q, R, C}$ oder bleibige andere Großbuchstaben: 
+%
+\begin{align*}
+\mathds{A, B, D, E, F, G, H, I, J, K, L, M, O, P, S, T, V, W, X, Y}.
+\end{align*}
+%
+Wenn man Matrizen braucht, so gibt es diverse Matrix-Umgebungen:
+%
+\begin{align*} 
+\begin{matrix} a_{11} & a_{12} \\ a_{21} & a_{22} \end{matrix} \quad  
+\begin{pmatrix} a_{11} & a_{12} \\ a_{21} & a_{22} \end{pmatrix} \quad  \begin{vmatrix} a_{11} & a_{12} \\ a_{21} & a_{22} \end{vmatrix} \quad  \begin{Vmatrix} a_{11} & a_{12} \\ a_{21} & a_{22} \end{Vmatrix} \quad  \begin{bmatrix} a_{11} & a_{12} \\ a_{21} & a_{22} \end{bmatrix} \quad  \begin{Bmatrix} a_{11} & a_{12} \\ a_{21} & a_{22} \end{Bmatrix} \quad  \end{align*}
+%
+Hier wurden der Reihe nach die Umgebungen \texttt{matrix}, \texttt{pmatrix}, \texttt{vmatrix}, \texttt{Vmatrix}, \texttt{bmatrix}, \texttt{Bmatrix} verwendet. Zur Fallunterscheidung gibt es die \texttt{cases}-Umgebung:
+%
+\begin{align*}
+|x| = \begin{cases}
+\phantom{-}x & \text{falls } \, x>0 \\ -x & \text{falls } x< 0
+\end{cases}
+\end{align*}
+%
+Will man unter oder über Terme etwas schreiben, so kann gibt es die Befehle {\lstinline!\underbrace{}!} und {\lstinline!\overbrace{}!}
+\begin{align}
+\underbrace{x^3 + 7x^2 + 3x -7 = 0}_{\text{notwendige Bedingung}}  \quad \overbrace{f'(x) = 0}^{\text{Nullstellen}}.
+\end{align}	
+%		
+Mit {\lstinline!\underline{}!} und {\lstinline!\overline{}!} können Ausdrücke in einer Mathematikumgebung unterstrichen bzw. überstrichen (gibt es das Wort in diesem Zusammenhang?!) werden:
+%
+\begin{align*}
+\underline{a} = \vec{a} = \frak{a} \quad \text{oder} \quad \overline{a + \text{i} b} = a - \text{i} b
+\end{align*}
+%
+Oft sind in wissenschaftlich-mathematischen Texten griechische Buchstaben nötig:
+%
+
+\begin{minipage}{.45\textwidth}
+\centering
+
+\begin{tabular}{ccl} \toprule
+Klein & Groß & Name \\ \midrule
+$\alpha$ & \textrm{A} & Alpha \\    
+$\beta$ & \textrm{B} & Beta \\  
+$\gamma$ & $\Gamma$ & Gamma \\  
+$\delta$ & $\Delta$ & Delta \\ 
+$\epsilon$, $\varepsilon$ & \textrm{E} & Epsilon \\
+$\zeta$ & \textrm{Z} & Zeta \\
+$\eta$ & \textrm{H} & Eta  \\
+$\theta$ , $\vartheta$ & $\Theta$ & Theta \\
+$\iota$ & \textrm{I} & Iota \\
+$\kappa$ & \textrm{K} & Kappa \\
+$\lambda$ & $\Lambda$ & Lambda \\
+$\mu$ & \textrm{M} & My \\ \bottomrule
+\end{tabular}
+\par\end{minipage}
+%
+\hfill
+%
+\begin{minipage}{.45\textwidth}
+\centering
+\begin{tabular}{ccl} \toprule
+Klein & Groß & Name \\ \midrule
+$\nu$ & \textrm{N} & Ny \\
+$\xi$ & $\Xi$ & Xi \\
+\textrm{o} & \textrm{O} & Omikron \\
+$\pi$ & $\Pi$ & Pi \\
+$\rho$, $\varrho$ & \textrm{P} & Rho \\
+$\sigma$ & $\Sigma$ & Sigma  \\
+$\tau$ & \textrm{T} & Tau \\
+$\upsilon$ & $\Upsilon$ & Ypsilon \\
+$\phi$,$\varphi$ & $\Phi$ & Phi \\
+$\chi$ & \textrm{X} & Chi \\
+$\psi$ & $\Psi$ & Psi \\
+$\omega$ & $\Omega$ & Omega \\ \bottomrule
+\end{tabular}
+\par
+\end{minipage}
+
+
+\section{Aufzählungen}
+
+Es gibt im wesentlichen drei Formen von Listen bzw. Aufzählungen
+
+\subsection{Nummerierte Aufzählungen}
+Bei der \texttt{enumerate}-Umgebung wird durchgezählt
+ \begin{enumerate}
+  \item Die erste Ebene 
+   \begin{enumerate}
+    \item zweite Ebene
+    \item zweiter Eintrag zweite Ebene
+    \item Hier nun die dritte Ebene:
+      \begin{enumerate}
+        \item Meistens ist es nicht nötig noch weiter zu schachteln
+        \item aber sollte man es doch mal brauchen, so steht auch noch 
+         \begin{enumerate}
+           \item weitere 
+           \item Ebenen 
+           \item zur Verfügung.
+         \end{enumerate}
+        \item Aber meist reicht diese hier!  
+      \end{enumerate}
+    \end{enumerate}
+  \item Zweiter Eintrag in der ersten Ebene
+ \end{enumerate}
+
+\subsection{Ohne Nummerierung}
+ 
+Sollte man keine Nummerierung benötigen, so gibt es auch die einfachen Spiegelstriche. 
+Die \texttt{itemize}-Umgebung stellt einfache Spiegelstriche oder deren Pendants zur Verfügung. 
+
+\begin{itemize}
+   \item Die erste Ebene 
+   \begin{itemize}
+    \item zweite Ebene
+    \item zweiter Eintrag zweite Ebene
+    \item Hier nun die dritte Ebene:
+      \begin{itemize}
+        \item Meistens ist es nicht nötig noch weiter zu schachteln
+        \item aber sollte man es doch mal brauchen, so steht auch noch 
+         \begin{itemize}
+           \item genau eine weitere 
+           \item Ebene 
+           \item zur Verfügung.
+         \end{itemize}
+        \item Aber meist reicht die dritte schon.  
+      \end{itemize}
+    \end{itemize}
+  \item Zweiter Eintrag in der ersten Ebene
+ \end{itemize}
+
+\subsection{Beschreibende Aufzählungen}
+
+\begin{description}
+\item[description] Diese oberste Aufzählungsebene hier ist mit Hilfe der \texttt{description}-Umgebung gemacht. Das hat den Vorteil, dass alle folgenden Zeilen eingerückt sind, was den gesamten Text leserlich macht. 
+\item[Fortsetzung] Der zu beschreibende Titel der Aufzählung wird dabei in eckigen Klammern hinter das \texttt{item} gesetzt. Dies ist auch bei anderen Aufzählungen möglich.
+\end{description}
+
+Es gibt einige Pakete, die bei den Aufzählungen helfen. Das beste ist das \texttt{enumitem}-Paket, mit dem man sämtliche Parameter einer Aufzählung kontrollieren kann, seien es die Nummerierung, Abstände oder das Einrücken. 
+
+Schön ist außerdem die Option \texttt{[resume]} wenn durchnummerierte Aufzählungen fortgeführt werden sollen
+\begin{enumerate}
+\item Text in einer Aufzählung
+\item und noch ein Punkt
+\end{enumerate}
+%
+Nun ein kurzer Text, der außerhalb der Aufzählung ist, damit man besser erkennen kann was passiert, wenn die Aufzählung weiter gehen soll.
+%
+\begin{enumerate}[resume]
+\item Text in der zweiten Aufzählung mit \texttt{[resume]}-Option
+\item mit dem Befehl \texttt{addtocounter} kann man auch den Counter hochzählen
+\addtocounter{enumi}{4}
+\item so dass hier zum Beispiel um 4 hochgezählt wurde.
+\end{enumerate}
+
