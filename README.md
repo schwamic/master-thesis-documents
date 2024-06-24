@@ -9,4 +9,4 @@
 * [(TODO) Master Thesis](TODO)
 * [Praktikumsskript Stadt Laichingen](documents/Praktikumskript-Stadt_Laichingen.pdf)
 * [Tech Talk Slides](documents/Tech_Talk-Michael_Schwarz-10042024.pdf)
-* [Vorlseungsskript Stefan Fina](documents/Vorlseungsskript-Stefan-Fina.pdf)
+* [Vorlesungsskript Stefan Fina](documents/Vorlesungsskript-Stefan-Fina.pdf)
