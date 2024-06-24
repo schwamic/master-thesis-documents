@@ -1,9 +1,12 @@
-# HSA Abschlussarbeit
+# Digital Urban Land-Use Planning – How AI Systems Understand Development Plans
 
-## Informationen für Studierende
+## Documents
 
-Das Projekt stellt eine Vorlage für Ihre Abschlussarbeit dar. Bitte clonen Sie das Projekt. Anschließend entfernen Sie am besten den remote host aus dem Repository, und nutzen die Vorlage, um Ihre Arbeit zu schreiben. Sollte Sie Änderungen an der Vorlage vornehmen, von denen Sie denke, diese sind auch für andere Studirenden interessant, zögern Sie bitte nicht, die Änderungen an die Dozenten weiterzugeben. Wir werden die Anpassung, falls dies Sinn macht, dann in die Vorlage integrieren.
-
-### Wichtiger Hinweis
-
-Sie müssen unabhängig von der Vorlage sicherstellen, dass Sie die formalen Kriterien, die an die Abschlussarbeit gestellt werden, erfülen, d.h. Sie sollten bei der Titelseite, der Erklärung, der Literatur etc. jeweils mit Ihrem Erstbetreuer klären, was die formalen Vorgaben sind, und dann selber sicherstellen, dass Sie diese einhalten.
+* [CHIASM Poster](src/CHIASM_Poster-Michael_Schwarz-240421.pdf)
+* [Clustering Miroboard]()
+* [Digitaler Baumeister Slides](src/THA_Digitaler_Baumeister-Michael_Schwarz-11062024.pdf)
+* [Exposé](src/Exposé-Michael_Schwarz.pdf)
+* [Interviews Miroboard]()
+* [Praktikumsskript Stadt Laichingen](src/Praktikumskript-Stadt_Laichingen.pdf)
+* [Tech Talk Slides](src/Tech_Talk-Michael_Schwarz-10042024.pdf)
+* [Vorlseungsskript Stefan Fina](src/Vorlseungsskript-Stefan-Fina.pdf)
