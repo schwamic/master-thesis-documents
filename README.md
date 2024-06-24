@@ -1,4 +1,4 @@
-# Digital Urban Land-Use Planning – How AI Systems Understand Development Plans
+# Documents: Digital Urban Land-Use Planning – How AI Systems Understand Development Plans
 
 * [CHIASM Poster](documents/CHIASM_Poster-Michael_Schwarz-240421.pdf)
 * [Digitaler Baumeister Slides](documents/THA_Digitaler_Baumeister-Michael_Schwarz-11062024.pdf)
