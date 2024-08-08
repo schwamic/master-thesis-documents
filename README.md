@@ -1,5 +1,6 @@
-# Documents: Digital Urban Land-Use Planning – How AI Systems Understand Development Plans
+# Digital Urban Land-Use Planning – How AI Systems Understand Development Plans
 
+## Sources
 * [CHIASM Poster](documents/CHIASM_Poster-Michael_Schwarz-240421.pdf)
 * [Digitaler Baumeister Slides](documents/THA_Digitaler_Baumeister-Michael_Schwarz-11062024.pdf)
 * [Exposé](documents/Exposé-Michael_Schwarz.pdf)
@@ -10,3 +11,17 @@
 * [Praktikumsskript Stadt Laichingen](documents/Praktikumskript-Stadt_Laichingen.pdf)
 * [Tech Talk Slides](documents/Tech_Talk-Michael_Schwarz-10042024.pdf)
 * [Vorlesungsskript Stefan Fina](documents/Vorlesungsskript-Stefan-Fina.pdf)
+
+## Citing
+
+```bibtex
+@masterthesis{schwarz-2024-digital,
+  title        = {Digital Urban Land-Use Planning – How AI Systems Understand Development Plans},
+  author       = {Schwarz, M.},
+  year         = 2024,
+  month        = {September},
+  note         = {Cooperation with credium GmbH},
+  school       = {Technical University of Applied Sciences Augsburg},
+  type         = {Master's thesis}
+}
+```
