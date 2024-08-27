@@ -12,7 +12,7 @@
 ### 2 Experimente und Evaluation
 
 * [Jupyter Notebooks ⤴](https://github.com/schwamic/digital-urban-land-use-planning)
-* TODO [Miro Board – Evaluation](TODO) ([Öffentliches Miro Board ⤴](TODO))
+* TODO [Miro Board – Evaluation](TODO) ([Öffentliches Miro Board ⤴](https://miro.com/app/board/uXjVK5Jy2UQ=/?share_link_id=316632335868))
 
 ### 3 Präsentationen
 
