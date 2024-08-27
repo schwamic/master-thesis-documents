@@ -1,18 +1,32 @@
-# Digital Urban Land-Use Planning – How AI Systems Understand Development Plans
+# Digitale Bauleitplanung – Wie KI Systeme Bebauungspläne verstehen
 
-## Sources
-* [CHIASM Poster](documents/CHIASM_Poster-Michael_Schwarz-240421.pdf)
-* [Digitaler Baumeister Slides](documents/THA_Digitaler_Baumeister-Michael_Schwarz-11062024.pdf)
-* [Exposé](documents/Exposé-Michael_Schwarz.pdf)
-* [Interview Clustering Miroboard](documents/Interview_Clustering_Miro_Board-Michael_Schwarz.pdf) (Link to [Public Miro Board](https://miro.com/app/board/uXjVK5dIEKM=/?share_link_id=19650467674))
-* [(TODO) Interviews Miroboard](TODO) (Link to [Public Miro Board](https://miro.com/app/board/uXjVK5cSCbc=/?share_link_id=692471362957))
-* Link to [KI System Repository](https://github.com/schwamic/digital-urban-land-use-planning)
-* [(TODO) Master Thesis](TODO)
-* [Praktikumsskript Stadt Laichingen](documents/Praktikumskript-Stadt_Laichingen.pdf)
-* [Tech Talk Slides](documents/Tech_Talk-Michael_Schwarz-10042024.pdf)
-* [Vorlesungsskript Stefan Fina](documents/Vorlesungsskript-Stefan-Fina.pdf)
+## Dokumente (Anhang)
 
-## Citing
+### 1 Expert:innen Interviews
+
+* TODO [Miro Boards – Expert:innen-Interviews](TODO) ([Öffentliches Miro Board ⤴](https://miro.com/app/board/uXjVK5cSCbc=/?share_link_id=692471362957))
+* TODO [Miro Board – Interview Clustering](documents/Interview_Clustering_Miro_Board-Michael_Schwarz.pdf) ([Öffentliches Miro Board ⤴](https://miro.com/app/board/uXjVK5dIEKM=/?share_link_id=19650467674))
+* [Praktikumsskript "Öffentliches Baurecht" der Stadt Laichingen](documents/Praktikumskript-Stadt_Laichingen.pdf)
+* [Vorlesungsskript "M7 Umfeldplanung (UFP): Klimaneutrale Stadtentwicklung" von Prof. Dr. rer. nat. Fina](documents/Vorlesungsskript-Stefan-Fina.pdf)
+
+### 2 Experimente und Evaluation
+
+* [Jupyter Notebooks ⤴](https://github.com/schwamic/digital-urban-land-use-planning)
+* TODO [Miro Board – Evaluation](TODO) ([Öffentliches Miro Board ⤴](TODO))
+
+### 3 Präsentationen
+
+* [Posterpräsentation am CHIASM Kick-off-Workshop an der THA](documents/CHIASM_Poster-Michael_Schwarz-240421.pdf)
+* [Vorlesung im Studiengang "Digitaler Baumeister" an der THA](documents/THA_Digitaler_Baumeister-Michael_Schwarz-11062024.pdf)
+* [Tech Talk bei der Firma credium GmbH](documents/Tech_Talk-Michael_Schwarz-10042024.pdf)
+
+### 4 Sonstiges
+
+* TODO [Master Thesis](TODO)
+* [Exposé zur Masterarbeit](documents/Exposé-Michael_Schwarz.pdf)
+* [Ausschreibung der Abschlussarbeit von Prof. Dr. Kratsch](documents/WK-Abschlussarbeit-THA-5-Extraktion-von-Informationen-aus-Bebauungsplaenen-durch-LLMs.pdf)
+
+## Zitieren
 
 ```bibtex
 @masterthesis{schwarz-2024-urban,
