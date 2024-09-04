@@ -4,15 +4,15 @@
 
 ### 1 Expert:innen Interviews
 
-* TODO [Miro Boards – Expert:innen-Interviews](TODO) ([Öffentliches Miro Board ⤴](https://miro.com/app/board/uXjVK5cSCbc=/?share_link_id=692471362957))
-* TODO [Miro Board – Interview Clustering](documents/Interview_Clustering_Miro_Board-Michael_Schwarz.pdf) ([Öffentliches Miro Board ⤴](https://miro.com/app/board/uXjVK5dIEKM=/?share_link_id=19650467674))
+* [Miro Boards – Expert:innen-Interviews](documents/Interviews_Miro_Board-Michael_Schwarz.pdf) ([Öffentliches Miro Board ⤴](https://miro.com/app/board/uXjVK5cSCbc=/?share_link_id=692471362957))
+* [Miro Board – Interview Clustering](documents/Interview_Clustering_Miro_Board-Michael_Schwarz.pdf) ([Öffentliches Miro Board ⤴](https://miro.com/app/board/uXjVK5dIEKM=/?share_link_id=19650467674))
 * [Praktikumsskript "Öffentliches Baurecht" der Stadt Laichingen](documents/Praktikumskript-Stadt_Laichingen.pdf)
 * [Vorlesungsskript "M7 Umfeldplanung (UFP): Klimaneutrale Stadtentwicklung" von Prof. Dr. rer. nat. Fina](documents/Vorlesungsskript-Stefan-Fina.pdf)
 
 ### 2 Experimente und Evaluation
 
 * [Jupyter Notebooks ⤴](https://github.com/schwamic/digital-urban-land-use-planning)
-* TODO [Miro Board – Evaluation](TODO) ([Öffentliches Miro Board ⤴](https://miro.com/app/board/uXjVK5Jy2UQ=/?share_link_id=316632335868))
+* [Miro Board – Evaluation](documents/Experimente-Evaluation_Miro_Board-Michael_Schwarz.pdf) ([Öffentliches Miro Board ⤴](https://miro.com/app/board/uXjVK5Jy2UQ=/?share_link_id=316632335868))
 * [Verwendete Bebauungspläne (Datensatz)](documents/bpläne/)
 
 ### 3 Präsentationen
