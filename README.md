@@ -5,7 +5,7 @@
 ### 1 Expert:innen Interviews
 
 * [Miro Boards – Expert:innen-Interviews](documents/Interviews_Miro_Board-Michael_Schwarz.pdf) ([Öffentliches Miro Board ⤴](https://miro.com/app/board/uXjVK5cSCbc=/?share_link_id=692471362957))
-* [Miro Board – Interview Clustering](documents/Interview_Clustering_Miro_Board-Michael_Schwarz.pdf) ([Öffentliches Miro Board ⤴](https://miro.com/app/board/uXjVK5dIEKM=/?share_link_id=19650467674))
+* [Miro Board – Interview Clustering](documents/Interview_Clustering_Miro_Board-Michael_Schwarz.pdf) ([Öffentliches Miro Board ⤴](https://miro.com/app/board/uXjVKjbxg7U=/?share_link_id=984822197231))
 * [Praktikumsskript "Öffentliches Baurecht" der Stadt Laichingen](documents/Praktikumskript-Stadt_Laichingen.pdf)
 * [Vorlesungsskript "M7 Umfeldplanung (UFP): Klimaneutrale Stadtentwicklung" von Prof. Dr. rer. nat. Fina](documents/Vorlesungsskript-Stefan-Fina.pdf)
 
