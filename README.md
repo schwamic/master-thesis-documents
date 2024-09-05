@@ -8,12 +8,13 @@
 * [Miro Board – Interview Clustering](documents/Interview_Clustering_Miro_Board-Michael_Schwarz.pdf) ([Öffentliches Miro Board ⤴](https://miro.com/app/board/uXjVKjbxg7U=/?share_link_id=984822197231))
 * [Praktikumsskript "Öffentliches Baurecht" der Stadt Laichingen](documents/Praktikumskript-Stadt_Laichingen.pdf)
 * [Vorlesungsskript "M7 Umfeldplanung (UFP): Klimaneutrale Stadtentwicklung" von Prof. Dr. rer. nat. Fina](documents/Vorlesungsskript-Stefan-Fina.pdf)
+* [Bauplan von der Stadt Laichingen](documents/Bauplan-Laichingen-2011.pdf)
 
 ### 2 Experimente und Evaluation
 
 * [Jupyter Notebooks ⤴](https://github.com/schwamic/digital-urban-land-use-planning)
 * [Miro Board – Evaluation](documents/Experimente-Evaluation_Miro_Board-Michael_Schwarz.pdf) ([Öffentliches Miro Board ⤴](https://miro.com/app/board/uXjVK5Jy2UQ=/?share_link_id=316632335868))
-* [Verwendete Bebauungspläne (Datensatz)](documents/bpläne/)
+* [Datensatz (Verwendete Bebauungspläne)](documents/bpläne/)
 
 ### 3 Präsentationen
 
