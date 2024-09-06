@@ -24,7 +24,7 @@
 
 ### 4 Sonstiges
 
-* TODO [Master Thesis](TODO)
+* [Masterarbeit](documents/Michael-Schwarz-2141622_Masterarbeit.pdf)
 * [Exposé zur Masterarbeit](documents/Exposé-Michael_Schwarz.pdf)
 * [Ausschreibung der Abschlussarbeit von Prof. Dr. Kratsch](documents/WK-Abschlussarbeit-THA-5-Extraktion-von-Informationen-aus-Bebauungsplaenen-durch-LLMs.pdf)
 
