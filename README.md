@@ -8,7 +8,7 @@
 * [Miro Board – Interview Clustering](documents/Interview_Clustering_Miro_Board-Michael_Schwarz.pdf) ([Öffentliches Miro Board ⤴](https://miro.com/app/board/uXjVKjbxg7U=/?share_link_id=984822197231))
 * [Bauplan der Stadt Laichingen](documents/Bauplan-Laichingen-2011.pdf)
 * [Praktikumsskript "Öffentliches Baurecht" der Stadt Laichingen](documents/Praktikumskript-Stadt_Laichingen.pdf)
-* [Vorlesungsskript "M7 Umfeldplanung (UFP): Klimaneutrale Stadtentwicklung" von Prof. Dr. rer. nat. Fina](documents/Vorlesungsskript-Stefan-Fina.pdf)
+* Vorlesungsskript "M7 Umfeldplanung (UFP): Klimaneutrale Stadtentwicklung" von Prof. Dr. rer. nat. Fina (Nicht öffentlich Zugänglich)
 
 ### 2 Experimente und Evaluation
 
@@ -19,7 +19,7 @@
 ### 3 Präsentationen
 
 * [Posterpräsentation am CHIASM Kick-off-Workshop an der THA](documents/CHIASM_Poster-Michael_Schwarz-240421.pdf)
-* Vorlesung im Studiengang "Digitaler Baumeister" an der THA (Nicht öffentlich Zugänglich)
+* [Vorlesung im Studiengang "Digitaler Baumeister" an der THA](documents/THA_Digitaler_Baumeister-Michael_Schwarz-11062024.pdf)
 * [Tech Talk bei der Firma credium GmbH](documents/Tech_Talk-Michael_Schwarz-10042024.pdf)
 
 ### 4 Sonstiges
