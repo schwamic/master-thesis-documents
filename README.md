@@ -19,7 +19,7 @@
 ### 3 Präsentationen
 
 * [Posterpräsentation am CHIASM Kick-off-Workshop an der THA](documents/CHIASM_Poster-Michael_Schwarz-240421.pdf)
-* [Vorlesung im Studiengang "Digitaler Baumeister" an der THA](documents/THA_Digitaler_Baumeister-Michael_Schwarz-11062024.pdf)
+* Vorlesung im Studiengang "Digitaler Baumeister" an der THA (Nicht öffentlich Zugänglich)
 * [Tech Talk bei der Firma credium GmbH](documents/Tech_Talk-Michael_Schwarz-10042024.pdf)
 
 ### 4 Sonstiges
