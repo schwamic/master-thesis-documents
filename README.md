@@ -16,7 +16,7 @@
 * [Miro Board – Evaluation](documents/Experimente-Evaluation_Miro_Board-Michael_Schwarz.pdf) ([Öffentliches Miro Board ⤴](https://miro.com/app/board/uXjVK5Jy2UQ=/?share_link_id=316632335868))
 * [Datensatz (Verwendete Bebauungspläne)](documents/bpläne/)
 
-### 4 Präsentationen
+### 3 Präsentationen
 
 * [Posterpräsentation am CHIASM Kick-off-Workshop an der THA](documents/CHIASM_Poster-Michael_Schwarz-240421.pdf)
 * [Vorlesung im Studiengang "Digitaler Baumeister" an der THA](documents/THA_Digitaler_Baumeister-Michael_Schwarz-11062024.pdf)
