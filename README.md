@@ -16,11 +16,12 @@
 * [Miro Board – Evaluation](documents/Experimente-Evaluation_Miro_Board-Michael_Schwarz.pdf) ([Öffentliches Miro Board ⤴](https://miro.com/app/board/uXjVK5Jy2UQ=/?share_link_id=316632335868))
 * [Datensatz (Verwendete Bebauungspläne)](documents/bpläne/)
 
-### 3 Präsentationen
+### 4 Präsentationen
 
 * [Posterpräsentation am CHIASM Kick-off-Workshop an der THA](documents/CHIASM_Poster-Michael_Schwarz-240421.pdf)
 * [Vorlesung im Studiengang "Digitaler Baumeister" an der THA](documents/THA_Digitaler_Baumeister-Michael_Schwarz-11062024.pdf)
-* [Tech Talk bei der Firma credium GmbH](documents/Tech_Talk-Michael_Schwarz-10042024.pdf)
+* [Tech Talk Part 1 bei der Firma credium GmbH](documents/Tech_Talk_Part1-Michael_Schwarz-10042024.pdf)
+* [Tech Talk Part 2 bei der Firma credium GmbH](documents/Tech_Talk_Part2-Michael_Schwarz_30102024.pdf)
 
 ### 4 Sonstiges
 
